@@ -3,10 +3,10 @@
 <widget xmlns = "http://www.w3.org/ns/widgets" 
    xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.narayan.onlineviewer" version = "1.0">
    
-   <name>Narayan app Point</name>
+   <name>Mukundan Team mananger</name>
    
    <description>
-      Tutorials Point Online Viewer
+      Mukundan Team mananger
    </description>
    
    <author href = "http://narayan.com" email = "narayanarajk23@gmail.com">
